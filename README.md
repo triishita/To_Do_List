@@ -2,9 +2,11 @@
 
 **A simple, beginner-friendly webpage to organize your tasks!**  
 
-## 🌟 Features  
+## Features:  
 - Add, mark as done, or delete tasks.  
 - Minimal design for easy use.  
 
-## 🚀 Demo  
+## Demo:
+[Watch the demo](./demo.mp4)
+
 
