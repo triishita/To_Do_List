@@ -1,6 +1,6 @@
 # 📝 To-Do List  
 
-**A simple, beginner-friendly app to organize your tasks!**  
+**A simple, beginner-friendly webpage to organize your tasks!**  
 
 ## 🌟 Features  
 - Add, mark as done, or delete tasks.  
