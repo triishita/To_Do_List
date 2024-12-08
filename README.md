@@ -7,3 +7,5 @@
 - Minimal design for easy use.  
 
 **[Check out the To-Do List here!](https://to-do-list-peach-kappa.vercel.app/)** 
+
+**(https://giphy.com/gifs/motivation-todo-to-do-lxsQ9dLbw1kTSVS9rt)**
