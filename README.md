@@ -6,7 +6,4 @@
 - Add, mark as done, or delete tasks.  
 - Minimal design for easy use.  
 
-## Demo:
-[Watch the demo](./demo.mp4)
-
-
+👉 **[Check out the To-Do List here!](https://your-webpage-link.com)** 
